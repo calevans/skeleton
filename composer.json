@@ -1,10 +1,10 @@
 {
 	"name": "calevans/skeleton",
-	"minimum-stability": "stable", 
+	"minimum-stability": "dev", 
 	"description": "How I setup silex apps",
     "license": "MIT",
     "type": "project",
-    "version" : "1.0.0",
+    "version" : "1.0.0@stable",
     "require": {
 		"silex/silex": "1.0.*",
 		"doctrine/dbal": ">=2.2",
