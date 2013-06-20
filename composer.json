@@ -4,6 +4,7 @@
 	"description": "How I setup silex apps",
     "license": "MIT",
     "type": "project",
+    "version" : "1.0.0",
     "require": {
 		"silex/silex": "1.0.*",
 		"doctrine/dbal": ">=2.2",
