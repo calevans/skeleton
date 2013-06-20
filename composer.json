@@ -1,6 +1,6 @@
 {
 	"name": "calevans/skeleton",
-	"minimum-stability": "dev", 
+	"minimum-stability": "stable", 
 	"description": "How I setup silex apps",
     "license": "MIT",
     "type": "project",
